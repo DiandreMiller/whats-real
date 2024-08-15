@@ -2,13 +2,18 @@
 
 ## Summary
 
-    This is a two part project. Below I will describe some major problems in today's society that I want to attempt to combat through this app.
+   Here's an improved version:
 
-    With the rise of artifical intelligence, photoshop, and the political climate we live in today, it has become increasingly difficult to tell what is real and what is fake. The purpose of this app is to help users distinguish between real photos and fake photos. 
+---
 
-    Another major issue that we face is the rise in fake job postings. A lot of people fall for fake job postings and and up getting scammed. I will use artifical intelligence to attempt to combat these fake job postings.
+**What's Real** is a two-part project aimed at addressing critical issues in today's society. Below, I outline some of the major challenges this app seeks to combat.
 
-    With this app, I hope to assist you in determining what's real,and what's not.
+In our current era, the rise of artificial intelligence, advanced photo editing tools like Photoshop, and a polarized political climate have made it increasingly difficult to discern what is real from what is fake. The primary goal of this app is to empower users to differentiate between authentic and manipulated images.
+
+Additionally, the prevalence of fake job postings has become a significant concern. Many people fall victim to these scams, often resulting in financial loss or identity theft. This app will leverage artificial intelligence to identify and mitigate the spread of fraudulent job listings.
+
+Through **What's Real**, I aim to provide you with the tools to determine what's genuine and what isn't, helping you navigate a world where reality is often blurred.
+
 
 ### Getting Started
 

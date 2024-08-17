@@ -14,6 +14,10 @@ Additionally, the prevalence of fake job postings has become a significant conce
 
 Through **What's Real**, I aim to provide you with the tools to determine what's genuine and what isn't, helping you navigate a world where reality is often blurred.
 
+### Issues
+
+The API I used to test whether or not the photo is AI generated can only tell if the photo is AI generated, but it does not detect if an image was photoshopped or not. That is not the job up that API, I must research API that will tell if it was photoshopped as well.
+
 
 ### Getting Started
 

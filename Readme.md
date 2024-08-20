@@ -18,7 +18,9 @@ Through **What's Real**, I aim to provide you with the tools to determine what's
 
 The API I used to test whether or not the photo is AI generated can only tell if the photo is AI generated, but it does not detect if an image was photoshopped or not. That is not the job up that API, I must research API that will tell if it was photoshopped as well. 
 
- ** Updated as of right now, there doesn't seem to be any APIs that can detect if an image can be photoshopped
+ ** Updated: This JPEG Snoop may allow me to help detect whether an image was photoshopped:
+
+ https://github.com/ImpulseAdventure/JPEGsnoop
 
 
 ### Getting Started
